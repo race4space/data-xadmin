@@ -1,0 +1,6 @@
+{
+    "require": {
+        "race4space/php-lib-xpublish": "^1.22",
+        "race4space/php-lib-crud": "^3.1"
+    }
+}
