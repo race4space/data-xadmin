@@ -144,16 +144,16 @@
         },
         {
             "name": "race4space/php-lib-xpublish",
-            "version": "1.31",
+            "version": "1.32",
             "source": {
                 "type": "git",
                 "url": "https://github.com/race4space/php-lib-xpublish.git",
-                "reference": "feaaf74299593d9e892bdc15aedb776b40c80faa"
+                "reference": "cb91b7d04e0e2b991b3621b8c7609653da055eef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/race4space/php-lib-xpublish/zipball/feaaf74299593d9e892bdc15aedb776b40c80faa",
-                "reference": "feaaf74299593d9e892bdc15aedb776b40c80faa",
+                "url": "https://api.github.com/repos/race4space/php-lib-xpublish/zipball/cb91b7d04e0e2b991b3621b8c7609653da055eef",
+                "reference": "cb91b7d04e0e2b991b3621b8c7609653da055eef",
                 "shasum": ""
             },
             "require": {
@@ -176,7 +176,7 @@
                 }
             ],
             "description": "A Web Publishing Tool",
-            "time": "2020-04-25T12:06:33+00:00"
+            "time": "2020-04-26T08:25:41+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
